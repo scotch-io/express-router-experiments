@@ -78,4 +78,4 @@ app.route('/login')
 // START THE SERVER
 // ==============================================
 app.listen(port);
-console.log('Magic happens on port ' + 8080);
+console.log('Magic happens on port ' + port);
